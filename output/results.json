@@ -1,0 +1,42 @@
+[
+    {
+        "issuer": "American Express",
+        "last_4_digits": "54321",
+        "due_date": "Nov 20",
+        "total_due": "987.65",
+        "statement_period": "Oct 1, 2024 to Oct 31, 2024",
+        "file": "Amex Bank Credit Card.pdf"
+    },
+    {
+        "issuer": "Chase",
+        "last_4_digits": "9012",
+        "due_date": "Nov 25, 2024",
+        "total_due": "1234.56",
+        "statement_period": "10/01/24 to 11/01/24",
+        "file": "Chase Bank Credit Card.pdf"
+    },
+    {
+        "issuer": "Citi",
+        "last_4_digits": "1234",
+        "due_date": "12/10/24",
+        "total_due": "333.22",
+        "statement_period": "10/15/24 to 11/14/24",
+        "file": "citi Bank credit Card.pdf"
+    },
+    {
+        "issuer": "HDFC",
+        "last_4_digits": "1234",
+        "due_date": "15/11/2024",
+        "total_due": "15420.50",
+        "statement_period": "01/10/2024 to 31/10/2024",
+        "file": "HDFC Bank Monthly Statement.pdf"
+    },
+    {
+        "issuer": "ICICI",
+        "last_4_digits": null,
+        "due_date": "08/11/2024",
+        "total_due": "8200.00",
+        "statement_period": null,
+        "file": "ICICI Bank Credit Card.pdf"
+    }
+]
